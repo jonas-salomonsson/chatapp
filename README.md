@@ -1,4 +1,4 @@
-![Logo of the project](https://cdn.zapier.com/storage/photos/b40533aae8f4d19588c1fe3c034bf0fd.png)
+![Logo of the project](https://d30y9cdsu7xlg0.cloudfront.net/png/59382-200.png)
 
 # CGI Chat app
 > Getting support has never been so easy
