@@ -1,0 +1,9 @@
+{
+	"name": "chatapp",
+	"version": "1.0.0",
+	"description": "An embeddable chat client for the matrix homeserver",
+	"dependencies": {
+		"jquery": "^3.2.1"
+	},
+	"license": "MIT"
+}

@@ -1,0 +1,34 @@
+$bg_message_color: rgba(123, 155, 192, 1);
+$bg_user_color: rgba(153, 200, 238, 1);
+
+#chatApp {
+	width: 280px;
+	display: none;
+	div.roomContents {
+		width: 100%;
+	}
+	form.sendMessageForm {
+		width: 100%;
+	}
+	.messageWrapper {
+		height: 400px;
+		overflow-y: scroll;
+		overflow-x: hidden;
+		width: 100%;
+		background-color: $bg_message_color;
+	}
+	form {
+		.textEntry {
+			width: 99%;
+		}
+	}
+	.userDiv {
+		background-color: $bg_user_color;
+	}
+	.msgDiv {
+		background-color: $bg_message_color;
+	}
+}
+.sendMessageForm {
+	display: none;
+}

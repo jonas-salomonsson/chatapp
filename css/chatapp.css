@@ -1,0 +1,24 @@
+#chatApp {
+  width: 280px;
+  display: none; }
+  #chatApp div.roomContents {
+    width: 100%; }
+  #chatApp form.sendMessageForm {
+    width: 100%; }
+  #chatApp .messageWrapper {
+    height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 100%;
+    background-color: #7b9bc0; }
+  #chatApp form .textEntry {
+    width: 99%; }
+  #chatApp .userDiv {
+    background-color: #99c8ee; }
+  #chatApp .msgDiv {
+    background-color: #7b9bc0; }
+
+.sendMessageForm {
+  display: none; }
+
+/*# sourceMappingURL=chatApp.css.map */
