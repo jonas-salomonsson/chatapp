@@ -1,4 +1,4 @@
-![Logo of the project](https://d30y9cdsu7xlg0.cloudfront.net/png/59382-200.png)
+[![Build Status](https://travis-ci.org/jonas-salomonsson/chatapp.svg?branch=master)](https://travis-ci.org/jonas-salomonsson/chatapp)
 
 # CGI Chat app
 > Getting support has never been so easy
